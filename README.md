@@ -1,2 +1,2 @@
 # Almacen
-Contiene el proyecto del sistema de ventas de un almacén
+Este proyecto fue hecho totalmente en el lenguaje java, usando como base de datos MySQL
